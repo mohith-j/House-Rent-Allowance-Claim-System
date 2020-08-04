@@ -1,0 +1,56 @@
+
+body{
+	padding-top: 5%;
+	padding-bottom: 5%;
+	background-color: #fff5e6;
+}
+h1{
+	text-align: center;
+	font-size: 50px;
+	padding-top: 1%;
+
+}
+.pad{
+	padding-top: 7px;
+}
+.content{
+	border:solid;
+}
+#id1{
+	border:solid;
+	text-align: center;
+	font-size: 30px;
+	background-color: darkblue;
+
+}
+h2{
+	color:white;
+}
+
+.class2{
+	color: white;
+	background-color: darkblue;
+	
+}
+.borders{
+	border:solid;
+}
+p{
+	font-size: 20px;
+	text-align: center;
+}
+#id2{
+	font-size: 20px;
+}
+.button {
+  background-color: green;/*#000099;*/
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
